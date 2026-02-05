@@ -18,7 +18,7 @@ and transaction history.
    python main.py
 
 ## How to Run Tests
-python -m unittest test_personal_account.py
+python test.py
 
 ## UML Class Diagram
 See `uml_diagram.png` for the class structure.
@@ -28,3 +28,4 @@ See `uml_diagram.png` for the class structure.
 - Transaction history
 - Operator overloading (+ and -)
 - Unit tests included
+
